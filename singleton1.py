@@ -6,7 +6,7 @@ class Singleton(object):
     """
     class _A(object):
         """
-       真正干活的类, 对外隐藏
+        真正干活的类, 对外隐藏
         """
         def __init__(self):
             pass
